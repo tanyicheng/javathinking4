@@ -1,6 +1,7 @@
-fixme-1 不理解
-fixme-2 不太理解
+fixme-1 需要深入研究
+fixme-2 待研究
 fixme-3 有疑惑的
 
-TODO-1 有用的例子
-TODO-2 还可以
+# 标记demo的级别
+TODO-1 很好的例子
+TODO-2 还行
